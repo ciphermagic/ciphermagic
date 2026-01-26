@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![ciphermagic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciphermagic&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciphermagic&layout=compact&custom_title=😊%20Used%20Languages&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciphermagic&layout=compact&Languages&langs_count=8&theme=radical)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ciphermagic&area=true&hide_border=true&theme=dracula)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ciphermagic/ciphermagic/output/github-contribution-grid-snake-dark.svg">
