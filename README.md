@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ciphermagic's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ciphermagic&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ciphermagic&layout=compact&Languages&langs_count=8&theme=radical)
+![ciphermagic's GitHub stats](https://github-stats-extended.vercel.app/api?username=ciphermagic&show_icons=true&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ciphermagic&layout=compact&langs_count=8&theme=radical)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ciphermagic/ciphermagic/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ciphermagic/ciphermagic/output/github-contribution-grid-snake.svg">
